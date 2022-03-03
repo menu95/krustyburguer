@@ -3,7 +3,7 @@ let menuJson = [
     {id:2, name:'FABULOSO R$ 9,90', img:'image/quadruplocbacon.jpeg', price:[9.90, 9.90, 9.90], sizes:[' ', '',''], description:'pão com gergelim, carne grelhada, maionese especial, alface, tomate, cebola picles'},
     {id:3, name:'TRIPLO QUEIJO R$ 12,00', img:'image/xtudao.jpeg', price:[12.00, 12.00, 12.00], sizes:[' ', '',''], description:'3 Carnes, queijo 3 vezes, pão, molho especial, picles, tomate e cebola '},
     {id:4, name:'X-BURGUER R$ 8,00', img:'image/quadruplomussa.jpeg', price:[8.00, 8.00, 8.00], sizes:[' ', '',''], description:'pão com gergelçim, queijo em dobro, tomate, cebola, alface, picles '},
-    {id:5, name:'CHEDDAR DUPLO R$ 8,90', img:'image/cheddarduplo.jpeg', price:[8.90, 8.90, 8.90], sizes:[' ', '',''], description:'pão com gergelim, 2 caenes, cheddar em dobro, cebola caramelizada'},
+    {id:5, name:'CHEDDAR DUPLO R$ 8,90', img:'image/Xcheddar3.jpg', price:[8.90, 8.90, 8.90], sizes:[' ', '',''], description:'pão com gergelim, 2 caenes, cheddar em dobro, cebola caramelizada'},
     {id:6, name:'CHICKEN BURGUER R$ 11,80', img:'image/onionsburguer.png', price:[11.80, 11.80, 11.80], sizes:[' ', '',''], description:'pão com gergelim, molho especial, chicken empanado, alface, tomate, cebola '},
     {id:7, name:'CATUPIRY 4 CARNES R$ 18,90', img:'image/coca lata.jpeg', price:[18.90, 18.90, 18.90], sizes:[' ', '',''], description:'pão com gergelim, 4 carnes de hamburguer, catupiry, bacon e molho especial'},
     {id:8, name:'PIZZA DE PEPERONE R$ 38,00', img:'image/mil.jpeg', price:[38.00, 38.00, 38.00], sizes:['','', ''], description:'Pizza de peperone: massa a base de trigo, molho de tomate, queijo mussarela, deliciosas fatias de peperone'},
