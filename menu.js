@@ -6,7 +6,7 @@ let menuJson = [
     {id:5, name:'CHEDDAR DUPLO R$ 8,90', img:'image/cheddarduplo.jpeg', price:[8.90, 8.90, 8.90], sizes:[' ', '',''], description:'pão com gergelim, 2 caenes, cheddar em dobro, cebola caramelizada'},
     {id:6, name:'CHICKEN BURGUER R$ 11,80', img:'image/onionsburguer.png', price:[11.80, 11.80, 11.80], sizes:[' ', '',''], description:'pão com gergelim, molho especial, chicken empanado, alface, tomate, cebola '},
     {id:7, name:'CATUPIRY 4 CARNES R$ 18,90', img:'image/coca lata.jpeg', price:[18.90, 18.90, 18.90], sizes:[' ', '',''], description:'pão com gergelim, 4 carnes de hamburguer, catupiry, bacon e molho especial'},
-    {id:8, name:'PIZZA DE PEPERONE R$ 38,00', img:'image/novapizza.jpg', price:[38.00, 38.00, 38.00], sizes:['','', ''], description:'Pizza de peperone: massa a base de trigo, molho de tomate, queijo mussarela, deliciosas fatias de peperone'},
+    {id:8, name:'PIZZA DE PEPERONE R$ 38,00', img:'image/mil.jpeg', price:[38.00, 38.00, 38.00], sizes:['','', ''], description:'Pizza de peperone: massa a base de trigo, molho de tomate, queijo mussarela, deliciosas fatias de peperone'},
     {id:9, name:'AGUA MINERAL R$2,00', img:'image/agua.jpeg', price:[2.00, 2.00, 2.00], sizes:['','', ''], description:'agua mineral 500ml'},
     {id:10, name:'HAMBURGUER R$ 7,90 ', img:'image/xburguercomum.jpg', price:[7.90, 7.90, 7.90], sizes:[' ', '',''], description:'pão, 1 carne de hamburguer, queijo, picles, tomate, cebola e molho especial'},
     {id:11, name:'ONIONS BURGUER R$ 10,90', img:'image/onionsburguer.png', price:[10.90, 10.90, 10.90], sizes:[' ', '',''], description:'pão, 2 carnes, onions empanadas, queijo , bacon'},
