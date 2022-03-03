@@ -1,5 +1,5 @@
 let menuJson = [
-    {id:1, name:'BIG-FOOD R$ 9,90', img:'image/xtudo.jpeg', price:[9.90, 9.90, 9.90], sizes:[' ', '',''], description:'pão com gergelim, 2 carnes, alface, tomate e cebola e molho especial'},
+    {id:1, name:'BIG-FOOD R$ 9,90', img:'image/xtudo.jpg', price:[9.90, 9.90, 9.90], sizes:[' ', '',''], description:'pão com gergelim, 2 carnes, alface, tomate e cebola e molho especial'},
     {id:2, name:'FABULOSO R$ 9,90', img:'image/Burger.jpeg', price:[9.90, 9.90, 9.90], sizes:[' ', '',''], description:'pão com gergelim, carne grelhada, maionese especial, alface, tomate, cebola picles'},
     {id:3, name:'TRIPLO QUEIJO R$ 12,00', img:'image/triploxburguer.jpg', price:[12.00, 12.00, 12.00], sizes:[' ', '',''], description:'3 Carnes, queijo 3 vezes, pão, molho especial, picles, tomate e cebola '},
     {id:4, name:'X-BURGUER R$ 8,00', img:'image/xduplo.jpg', price:[8.00, 8.00, 8.00], sizes:[' ', '',''], description:'pão com gergelçim, queijo em dobro, tomate, cebola, alface, picles '},
